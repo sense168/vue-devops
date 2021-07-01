@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to ssafy App" />
+  <HelloWorld msg="Welcome to my App" />
 </template>
 
 <script>
